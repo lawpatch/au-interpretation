@@ -3,7 +3,7 @@
 Unless the terms and conditions of the Agreement explicitly state otherwise, the Agreement will be interpreted as follows:
 
 **Parties**
-- a reference to a party includes that party's permitted assigns, administrators, successors, executors, legal representatives and any novated party; 
+- a reference to a party includes that party's permitted assigns, administrators, successors, executors, legal representatives and any novated party;
 - any reference to a trustee includes any substituted or additional trustee;
 
 **Grammatical Forms**
@@ -12,7 +12,7 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 - where a term is defined, other grammatical forms of that term will be taken to have the same meaning;
 - headings are for convenience and will not affect interpretation;
 - words in the singular will be taken to include the plural and also the opposite;
-- "$" means the Australian dollar.
+- "$" means the Australian dollar;
 
 **Document References**
 - a reference to a document will be to that document as updated, varied or amended;
@@ -23,8 +23,8 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 
 **Rights and Obligations**
 - a reference to a party's conduct includes omissions as well as acts;
-- if a party is described as having discretion in a matter, the discretion in that matter will be interpreted as sole and absolute;
-- where a party is required to do "anything necessary", this includes executing agreements and other legal instruments; 
+- if a party is described as having discretion in a matter, the discretion in that matter will be interpreted as sole and absolute; and
+- where a party is required to do "anything necessary", this includes executing agreements and other legal instruments.
 
 ### Agreement
 means the terms and conditions constituting the legally binding agreement that incorporates this document.
