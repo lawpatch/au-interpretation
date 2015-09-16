@@ -18,8 +18,8 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 - a reference to a document will be to that document as updated, varied or amended;
 - a reference to a document as describing rights and obligations of the parties will incorporate that document into the Agreement without any implications as to precedence of the terms;
 - when any kind of legislative instrument is referenced, the reference will be take to be that instrument as updated or substituted for by the legislative body in any way;
-- where a “URL” is mentioned, the non-operation of the “URL” will not render the rights and obligations associated with it invalid; and
-- any referenced digital resource may be replaced by another digital resource that is a “copy” of the original resource.
+- where a “URL” is mentioned, the non-operation of the “URL” will not render the rights and obligations associated with it invalid;
+- any referenced digital resource may be replaced by another digital resource that is a “copy” of the original resource;
 
 **Rights and Obligations**
 - a reference to a party's conduct includes omissions as well as acts;
