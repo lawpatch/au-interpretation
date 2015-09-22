@@ -21,6 +21,11 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 - where a “URL” is mentioned, the non-operation of the “URL” will not render the rights and obligations associated with it invalid;
 - any referenced digital resource may be replaced by another digital resource that is a “copy” of the original resource;
 
+**Importing**
+- when the parties "import terms" from a document of any type, the parties will be taken to agree to the terms and conditions of the referenced document;
+- when a document imports another document, the defined terms in the imported document will apply only to the terms in the imported document;
+- the terms in the imported document will be subject to these interpretation provisions; 
+
 **Rights and Obligations**
 - a reference to a party's conduct includes omissions as well as acts;
 - if a party is described as having discretion in a matter, the discretion in that matter will be interpreted as sole and absolute; and
