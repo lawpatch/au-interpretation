@@ -16,15 +16,16 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 
 **Document References**
 - a reference to a document will be to that document as updated, varied or amended;
-- a reference to a document as describing rights and obligations of the parties will incorporate that document into the Agreement without any implications as to precedence of the terms;
-- when any kind of legislative instrument is referenced, the reference will be take to be that instrument as updated or substituted for by the legislative body in any way;
+- when any kind of legislative instrument is referenced, the reference will be taken to be that instrument as updated or substituted for by the legislative body in any way;
 - where a “URL” is mentioned, the non-operation of the “URL” will not render the rights and obligations associated with it invalid;
-- any referenced digital resource may be replaced by another digital resource that is a “copy” of the original resource;
+- any referenced digital resource may be replaced with another digital resource that is a “copy” of the original resource;
 
-**Importing**
-- when the parties "import terms" from a document of any type, the parties will be taken to agree to the terms and conditions of the referenced document;
-- when a document imports another document, the defined terms in the imported document will apply only to the terms in the imported document;
-- the terms in the imported document will be subject to these interpretation provisions; 
+**LawPatch Language**
+- when the parties incorporate LawPatch Language, the parties will be taken to agree to the terms and conditions in the referenced document;
+- LawPatch Language will be incorporated from the specific version as represented by the URL only, not the langugage as amended and updated;
+- the incorporation of LawPatch Language will not have any implications as to the LawPatch Langugage;
+- the defined terms in LawPatch Language will apply only to the terms in the imported document;
+- the terms in the LawPatch Language will be subject to these interpretation provisions; 
 
 **Rights and Obligations**
 - a reference to a party's conduct includes omissions as well as acts;
@@ -33,3 +34,6 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 
 ### Agreement
 means the terms and conditions constituting the legally binding agreement that incorporates this document.
+
+### LawPatch Language 
+means the terms and conditions incorporated into the Agreement using a reference associated with http://lawpatch.org.
