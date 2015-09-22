@@ -7,7 +7,7 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 - any reference to a trustee includes any substituted or additional trustee;
 
 **Grammatical Forms**
-- unless used for the usual grammatical function, inverted commas around a term indicate industry jargon that will be interpreted according to how that term would be understood by an individual with expertise in the relevant industry;
+- unless used for the usual grammatical purpose, inverted commas around a term indicate industry jargon that will be interpreted according to how that term would be understood by an individual with expertise in the relevant industry;
 - "including", "includes" or any derivation of those words does not limit the matter in question to the things specifically mentioned in the applicable context;
 - where a term is defined, other grammatical forms of that term will be taken to have the same meaning;
 - headings are for convenience and will not affect interpretation;
@@ -36,4 +36,4 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 means the terms and conditions constituting the legally binding agreement that incorporates this document.
 
 ### LawPatch Language 
-means the terms and conditions incorporated into the Agreement using a reference associated with http://lawpatch.org.
+means terms and conditions incorporated into the Agreement using a reference to language associated with http://lawpatch.org.
