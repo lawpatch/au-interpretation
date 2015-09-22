@@ -23,7 +23,7 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 
 **LawPatch Language**
 - when the parties incorporate LawPatch Language, the parties will be taken to agree to the terms and conditions in the referenced document;
-- LawPatch Language will be incorporated from the specific version as represented by the URL only, not the langugage as amended and updated;
+- LawPatch Language will be incorporated from the specific version as represented by the URL only, not the language as amended and updated;
 - the defined terms in LawPatch Language will apply only to the terms in the imported document;
 - the terms in the LawPatch Language will be subject to these interpretation provisions; 
 
