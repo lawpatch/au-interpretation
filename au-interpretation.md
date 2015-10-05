@@ -32,6 +32,10 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 - if a party is described as having discretion in a matter, the discretion in that matter will be interpreted as sole and absolute; and
 - where a party is required to do "anything necessary", this includes executing agreements and other legal instruments.
 
+## Definitions
+
+Defined terms in this document will have the meanings described below.
+
 ### Agreement
 means the terms and conditions constituting the legally binding agreement that incorporates this document.
 
